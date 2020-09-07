@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\tarefapc\bin\Debug\netcoreapp3.1\tarefapc.exe
+C:\Users\kelly\Documents\tarefapc\bin\Debug\netcoreapp3.1\tarefapc.deps.json
+C:\Users\kelly\Documents\tarefapc\bin\Debug\netcoreapp3.1\tarefapc.runtimeconfig.json
+C:\Users\kelly\Documents\tarefapc\bin\Debug\netcoreapp3.1\tarefapc.runtimeconfig.dev.json
+C:\Users\kelly\Documents\tarefapc\bin\Debug\netcoreapp3.1\tarefapc.dll
+C:\Users\kelly\Documents\tarefapc\bin\Debug\netcoreapp3.1\tarefapc.pdb
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.AssemblyInfo.cs
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.dll
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.pdb
+C:\Users\kelly\Documents\tarefapc\obj\Debug\netcoreapp3.1\tarefapc.genruntimeconfig.cache
